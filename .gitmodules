@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "corclass"]
+	path = corclass
+	url = https://github.com/cran/corclass
+	shallow = true
+	registered = true
